@@ -1,0 +1,42 @@
+.topImage{
+    height: 4vw;
+    width: 4vw;
+}
+
+.mainParent{
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+    /* width: 20vw; */
+}
+.topCoinProfile{
+    display: flex;
+    gap: 2vw;
+    justify-content: left;
+    align-items: center;
+    background-color: #e7eef5;
+    width: 20vw;
+    height: 29vw;
+    padding: 2vw;
+    margin: 2vw;
+    border-radius: 2vw;
+    flex-flow: wrap row;
+}
+
+
+.topCoinProfile img ,.topCoinProfile p{
+    background-color: #e7eef5;
+    color :#171717; 
+}
+
+.green{
+    color: greenyellow;
+}
+.red{
+    color: red;
+}
+
+.topName{
+    font-weight: bolder;
+    font-size: 2vw;
+}

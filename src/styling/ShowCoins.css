@@ -1,0 +1,25 @@
+
+.coinProfile{
+    color: white;
+    position: relative;
+    left: 21vw;
+}
+.coinProfile td{
+    padding: 1.2vw;
+    padding-bottom: 4vw;
+}
+.coinImage{
+    height: 3vw;
+    width: 3vw;
+}
+
+hr{
+    width: 45vw;
+
+}
+.red{
+    color: red;
+}
+.green{
+    color: greenyellow;
+}
